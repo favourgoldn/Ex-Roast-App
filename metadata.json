@@ -1,0 +1,6 @@
+{
+  "name": "EX ROAST",
+  "description": "The place to turn your worst dating disasters into your best stories, and let the internet roast them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
